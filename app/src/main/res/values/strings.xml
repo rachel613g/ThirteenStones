@@ -4,6 +4,8 @@
     <string name="info_title">How to Play</string>
     <string name="banner_text">Please tap the number of stones to remove:</string>
     <string name="new_game">New Game</string>
+    <string name="view_statistics">View Statistics</string>
+    <string name="reset_statistics">Reset Statistics</string>
     <string name="about">About</string>
     <string name="one">1</string>
     <string name="two">2</string>
@@ -38,4 +40,13 @@
     <string name="auto_save_on">On exit, the game in progress will be saved</string>
     <string name="auto_save_title">Auto-Save Game on Exit</string>
     <string name="fab">FAB</string>
+    <string name="title_activity_statistics">Statistics</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>

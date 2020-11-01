@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ThirteenStones">
         <activity
+            android:name=".activities.StatisticsActivity"
+            android:label="@string/title_activity_statistics"
+            android:theme="@style/Theme.ThirteenStones.NoActionBar" />
+        <activity
             android:name=".activities.SplashActivity"
             android:theme="@style/Theme.ThirteenStones.NoActionBar.SplashScreenTheme">
             <intent-filter>
@@ -24,7 +28,6 @@
             android:theme="@style/Theme.ThirteenStones.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
             </intent-filter>
         </activity>
     </application>
