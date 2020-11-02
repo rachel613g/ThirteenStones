@@ -9,7 +9,5 @@
 
     <include layout="@layout/main_include_instruction_bar" />
 
-    <include layout="@layout/main_include_card_image_stone" />
-
-    <include layout="@layout/main_include_card_button" />
+    <include layout="@layout/main_include_card_buttons_and_image" />
 </androidx.constraintlayout.widget.ConstraintLayout>
