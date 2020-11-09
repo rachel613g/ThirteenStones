@@ -44,7 +44,6 @@
         app:layout_anchor="@id/bottom_bar"
         app:layout_anchorGravity="center"
         app:srcCompat="@android:drawable/ic_dialog_info"
-
         android:contentDescription="@string/fab" />
 </merge>
 
