@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="@dimen/slim_margin"
-        android:background="@color/colorDefaultBackground"
+        android:background="@color/defaultBackgroundColor"
         android:contentDescription="@string/stones_remaining_in_pile"
         android:scaleType="fitXY"
         android:src="@drawable/stones_13" />
